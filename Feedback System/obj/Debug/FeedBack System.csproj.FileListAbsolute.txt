@@ -1,0 +1,2 @@
+C:\Users\LENOVO\source\repos\FeedBack System\FeedBack System\obj\Debug\FeedBack System.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\FeedBack System\FeedBack System\obj\Debug\FeedBack System.csproj.CoreCompileInputs.cache
